@@ -86,18 +86,4 @@ This project showcases the complete lifecycle of a machine learning model, inclu
 
 ---
 
-## Skills Demonstrated
-
-- Machine Learning
-- Regression Analysis
-- Data Preprocessing
-- Feature Engineering
-- Exploratory Data Analysis (EDA)
-- Model Evaluation
-- Cross-Validation
-- Hyperparameter Tuning
-- Predictive Analytics
-- Data Visualization
-- Scikit-learn
-- Python Programming
 
