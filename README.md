@@ -10,7 +10,7 @@ This project is a Machine Learning-based regression model that predicts resident
 
 **Name:** Bengaluru House Price Dataset
 
-**Source:** Kaggle – Bengaluru House Data
+**Source:** https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data
 
 ### Dataset Includes
 - Property Location
